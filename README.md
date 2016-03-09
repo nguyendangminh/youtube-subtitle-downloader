@@ -1,8 +1,7 @@
 Youtube Subtitle Downloader
 ===========================
 
-    Youtube Subtitle Downloader downloads subtitles from Youtube videos 
-    (if those are present) and convert them to SRT format.
+    Youtube Subtitle Downloader downloads subtitle from a Youtube video if it's present and convert to SRT format.
 
     Usage: youtubesub.py [-h] [-l] [--language LANGUAGE] [--filename FILENAME]
                          [--filetype {srt,xml}]
