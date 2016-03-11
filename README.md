@@ -14,7 +14,7 @@ Youtube Subtitle Downloader
       -h, --help            show this help message and exit
       -l, --list            list all available languages
       --language LANGUAGE   the ISO language code
-      --filename FILENAME   specify the name of subtitle
+      --filename FILENAME   specify the output name of subtitle
       --filetype {srt,xml}  specify the output type of subtitle
 
     Example:
